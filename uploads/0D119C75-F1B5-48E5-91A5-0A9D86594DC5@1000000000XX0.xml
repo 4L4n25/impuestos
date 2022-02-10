@@ -1,0 +1,537 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Certificado="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" Fecha="2019-02-03T22:55:52" Folio="43" FormaPago="04" LugarExpedicion="04500" MetodoPago="PUE" Moneda="MXN" NoCertificado="00001000000413292696" Sello="mTyiTbzHjn3PdGjc/vSZ5bX/5lHK8+V5dacL9t4zo3CZMKgUPgEJ4vWshRYkMGYYi7ygYRTo6uIyZpP/I1eFREEx19+8bNCEnOfV7wapn3L9L0Wkd0Fa4jXNQJk6VqIqb0EtpDt7/zxUv9yRPosWQ2sgBFvUAPuN/R7LnKNx9dLudX6O01utGs08+UDe6WNkicaz1X+xMPcMnSWrBuRwMcuqtMIrX+Bm5fNoVrx1g7TiwCjTMBl8Gja3+kXRJ3DmS0q7EmhINoiFfNPMm5B1WYzk0C8aUJfG5TxMuZgWnZzFa2M32EFbp9zqVr7QlnMBuHt+se5j5mW2chfooM2nwg==" Serie="DD" SubTotal="38667.09" TipoDeComprobante="I" Total="44853.80" Version="3.3" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv33.xsd">
+    <cfdi:Emisor Nombre="ACS ALIMENTOS Y COCINAS DEL SUR SA DE CV" RegimenFiscal="601" Rfc="AAC18112173A" />
+    <cfdi:Receptor Nombre="NINGUNO" Rfc="XAXX010101000" UsoCFDI="P01" />
+    <cfdi:Conceptos>
+        <cfdi:Concepto Cantidad="1.00" ClaveProdServ="01010101" ClaveUnidad="ACT" Descripcion="Venta" Importe="352.16" NoIdentificacion="134038" ValorUnitario="352.16">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="352.16" Importe="56.34" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="1.00" ClaveProdServ="01010101" ClaveUnidad="ACT" Descripcion="Venta" Importe="371.55" NoIdentificacion="134039" ValorUnitario="371.55">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="371.55" Importe="59.45" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="1.00" ClaveProdServ="01010101" ClaveUnidad="ACT" Descripcion="Venta" Importe="135.34" NoIdentificacion="134040" ValorUnitario="135.34">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="135.34" Importe="21.66" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="1.00" ClaveProdServ="01010101" ClaveUnidad="ACT" Descripcion="Venta" Importe="239.66" NoIdentificacion="134041" ValorUnitario="239.66">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="239.66" Importe="38.34" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="1.00" ClaveProdServ="01010101" ClaveUnidad="ACT" Descripcion="Venta" Importe="163.79" NoIdentificacion="134042" ValorUnitario="163.79">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="163.79" Importe="26.21" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="1.00" ClaveProdServ="01010101" ClaveUnidad="ACT" Descripcion="Venta" Importe="357.76" NoIdentificacion="134043" ValorUnitario="357.76">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="357.76" Importe="57.24" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="1.00" ClaveProdServ="01010101" ClaveUnidad="ACT" Descripcion="Venta" Importe="461.21" NoIdentificacion="134044" ValorUnitario="461.21">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="461.21" Importe="73.79" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="1.00" ClaveProdServ="01010101" ClaveUnidad="ACT" Descripcion="Venta" Importe="423.28" NoIdentificacion="134045" ValorUnitario="423.28">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="423.28" Importe="67.72" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="1.00" ClaveProdServ="01010101" ClaveUnidad="ACT" Descripcion="Venta" Importe="408.62" NoIdentificacion="134046" ValorUnitario="408.62">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="408.62" Importe="65.38" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="1.00" ClaveProdServ="01010101" ClaveUnidad="ACT" Descripcion="Venta" Importe="331.90" NoIdentificacion="134047" ValorUnitario="331.90">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="331.90" Importe="53.10" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="1.00" ClaveProdServ="01010101" ClaveUnidad="ACT" Descripcion="Venta" Importe="780.17" NoIdentificacion="134048" ValorUnitario="780.17">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="780.17" Importe="124.83" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="1.00" ClaveProdServ="01010101" ClaveUnidad="ACT" Descripcion="Venta" Importe="433.62" NoIdentificacion="134049" ValorUnitario="433.62">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="433.62" Importe="69.38" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="1.00" ClaveProdServ="01010101" ClaveUnidad="ACT" Descripcion="Venta" Importe="326.72" NoIdentificacion="134050" ValorUnitario="326.72">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="326.72" Importe="52.28" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="1.00" ClaveProdServ="01010101" ClaveUnidad="ACT" Descripcion="Venta" Importe="436.21" NoIdentificacion="134051" ValorUnitario="436.21">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="436.21" Importe="69.79" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="1.00" ClaveProdServ="01010101" ClaveUnidad="ACT" Descripcion="Venta" Importe="394.83" NoIdentificacion="134052" ValorUnitario="394.83">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="394.83" Importe="63.17" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="1.00" ClaveProdServ="01010101" ClaveUnidad="ACT" Descripcion="Venta" Importe="269.83" NoIdentificacion="134053" ValorUnitario="269.83">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="269.83" Importe="43.17" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="1.00" ClaveProdServ="01010101" ClaveUnidad="ACT" Descripcion="Venta" Importe="419.83" NoIdentificacion="134054" ValorUnitario="419.83">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="419.83" Importe="67.17" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="1.00" ClaveProdServ="01010101" ClaveUnidad="ACT" Descripcion="Venta" Importe="390.52" NoIdentificacion="134055" ValorUnitario="390.52">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="390.52" Importe="62.48" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="1.00" ClaveProdServ="01010101" ClaveUnidad="ACT" Descripcion="Venta" Importe="812.07" NoIdentificacion="134056" ValorUnitario="812.07">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="812.07" Importe="129.93" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="1.00" ClaveProdServ="01010101" ClaveUnidad="ACT" Descripcion="Venta" Importe="634.48" NoIdentificacion="134057" ValorUnitario="634.48">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="634.48" Importe="101.52" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="1.00" ClaveProdServ="01010101" ClaveUnidad="ACT" Descripcion="Venta" Importe="604.31" NoIdentificacion="134059" ValorUnitario="604.31">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="604.31" Importe="96.69" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="1.00" ClaveProdServ="01010101" ClaveUnidad="ACT" Descripcion="Venta" Importe="1066.38" NoIdentificacion="134060" ValorUnitario="1066.38">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="1066.38" Importe="170.62" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="1.00" ClaveProdServ="01010101" ClaveUnidad="ACT" Descripcion="Venta" Importe="529.31" NoIdentificacion="134061" ValorUnitario="529.31">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="529.31" Importe="84.69" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="1.00" ClaveProdServ="01010101" ClaveUnidad="ACT" Descripcion="Venta" Importe="450.86" NoIdentificacion="134062" ValorUnitario="450.86">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="450.86" Importe="72.14" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="1.00" ClaveProdServ="01010101" ClaveUnidad="ACT" Descripcion="Venta" Importe="1489.66" NoIdentificacion="134063" ValorUnitario="1489.66">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="1489.66" Importe="238.34" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="1.00" ClaveProdServ="01010101" ClaveUnidad="ACT" Descripcion="Venta" Importe="396.55" NoIdentificacion="134064" ValorUnitario="396.55">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="396.55" Importe="63.45" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="1.00" ClaveProdServ="01010101" ClaveUnidad="ACT" Descripcion="Venta" Importe="254.31" NoIdentificacion="134065" ValorUnitario="254.31">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="254.31" Importe="40.69" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="1.00" ClaveProdServ="01010101" ClaveUnidad="ACT" Descripcion="Venta" Importe="377.59" NoIdentificacion="134066" ValorUnitario="377.59">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="377.59" Importe="60.41" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="1.00" ClaveProdServ="01010101" ClaveUnidad="ACT" Descripcion="Venta" Importe="524.14" NoIdentificacion="134067" ValorUnitario="524.14">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="524.14" Importe="83.86" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="1.00" ClaveProdServ="01010101" ClaveUnidad="ACT" Descripcion="Venta" Importe="1098.28" NoIdentificacion="134068" ValorUnitario="1098.28">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="1098.28" Importe="175.72" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="1.00" ClaveProdServ="01010101" ClaveUnidad="ACT" Descripcion="Venta" Importe="1056.03" NoIdentificacion="134069" ValorUnitario="1056.03">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="1056.03" Importe="168.97" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="1.00" ClaveProdServ="01010101" ClaveUnidad="ACT" Descripcion="Venta" Importe="316.38" NoIdentificacion="134070" ValorUnitario="316.38">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="316.38" Importe="50.62" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="1.00" ClaveProdServ="01010101" ClaveUnidad="ACT" Descripcion="Venta" Importe="622.41" NoIdentificacion="134071" ValorUnitario="622.41">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="622.41" Importe="99.59" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="1.00" ClaveProdServ="01010101" ClaveUnidad="ACT" Descripcion="Venta" Importe="480.17" NoIdentificacion="134072" ValorUnitario="480.17">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="480.17" Importe="76.83" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="1.00" ClaveProdServ="01010101" ClaveUnidad="ACT" Descripcion="Venta" Importe="430.17" NoIdentificacion="134073" ValorUnitario="430.17">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="430.17" Importe="68.83" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="1.00" ClaveProdServ="01010101" ClaveUnidad="ACT" Descripcion="Venta" Importe="606.90" NoIdentificacion="134074" ValorUnitario="606.90">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="606.90" Importe="97.10" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="1.00" ClaveProdServ="01010101" ClaveUnidad="ACT" Descripcion="Venta" Importe="255.17" NoIdentificacion="134076" ValorUnitario="255.17">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="255.17" Importe="40.83" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="1.00" ClaveProdServ="01010101" ClaveUnidad="ACT" Descripcion="Venta" Importe="1306.90" NoIdentificacion="134077" ValorUnitario="1306.90">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="1306.90" Importe="209.10" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="1.00" ClaveProdServ="01010101" ClaveUnidad="ACT" Descripcion="Venta" Importe="642.24" NoIdentificacion="134078" ValorUnitario="642.24">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="642.24" Importe="102.76" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="1.00" ClaveProdServ="01010101" ClaveUnidad="ACT" Descripcion="Venta" Importe="478.45" NoIdentificacion="134079" ValorUnitario="478.45">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="478.45" Importe="76.55" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="1.00" ClaveProdServ="01010101" ClaveUnidad="ACT" Descripcion="Venta" Importe="348.28" NoIdentificacion="134080" ValorUnitario="348.28">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="348.28" Importe="55.72" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="1.00" ClaveProdServ="01010101" ClaveUnidad="ACT" Descripcion="Venta" Importe="393.97" NoIdentificacion="134081" ValorUnitario="393.97">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="393.97" Importe="63.03" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="1.00" ClaveProdServ="01010101" ClaveUnidad="ACT" Descripcion="Venta" Importe="620.69" NoIdentificacion="134082" ValorUnitario="620.69">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="620.69" Importe="99.31" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="1.00" ClaveProdServ="01010101" ClaveUnidad="ACT" Descripcion="Venta" Importe="727.59" NoIdentificacion="134083" ValorUnitario="727.59">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="727.59" Importe="116.41" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="1.00" ClaveProdServ="01010101" ClaveUnidad="ACT" Descripcion="Venta" Importe="500.86" NoIdentificacion="134085" ValorUnitario="500.86">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="500.86" Importe="80.14" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="1.00" ClaveProdServ="01010101" ClaveUnidad="ACT" Descripcion="Venta" Importe="688.79" NoIdentificacion="134086" ValorUnitario="688.79">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="688.79" Importe="110.21" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="1.00" ClaveProdServ="01010101" ClaveUnidad="ACT" Descripcion="Venta" Importe="115.52" NoIdentificacion="134088" ValorUnitario="115.52">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="115.52" Importe="18.48" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="1.00" ClaveProdServ="01010101" ClaveUnidad="ACT" Descripcion="Venta" Importe="847.41" NoIdentificacion="134089" ValorUnitario="847.41">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="847.41" Importe="135.59" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="1.00" ClaveProdServ="01010101" ClaveUnidad="ACT" Descripcion="Venta" Importe="485.34" NoIdentificacion="134090" ValorUnitario="485.34">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="485.34" Importe="77.66" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="1.00" ClaveProdServ="01010101" ClaveUnidad="ACT" Descripcion="Venta" Importe="180.17" NoIdentificacion="134091" ValorUnitario="180.17">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="180.17" Importe="28.83" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="1.00" ClaveProdServ="01010101" ClaveUnidad="ACT" Descripcion="Venta" Importe="857.76" NoIdentificacion="134093" ValorUnitario="857.76">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="857.76" Importe="137.24" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="1.00" ClaveProdServ="01010101" ClaveUnidad="ACT" Descripcion="Venta" Importe="1307.76" NoIdentificacion="134094" ValorUnitario="1307.76">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="1307.76" Importe="209.24" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="1.00" ClaveProdServ="01010101" ClaveUnidad="ACT" Descripcion="Venta" Importe="1134.48" NoIdentificacion="134095" ValorUnitario="1134.48">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="1134.48" Importe="181.52" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="1.00" ClaveProdServ="01010101" ClaveUnidad="ACT" Descripcion="Venta" Importe="743.10" NoIdentificacion="134096" ValorUnitario="743.10">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="743.10" Importe="118.90" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="1.00" ClaveProdServ="01010101" ClaveUnidad="ACT" Descripcion="Venta" Importe="573.28" NoIdentificacion="134097" ValorUnitario="573.28">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="573.28" Importe="91.72" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="1.00" ClaveProdServ="01010101" ClaveUnidad="ACT" Descripcion="Venta" Importe="539.66" NoIdentificacion="134098" ValorUnitario="539.66">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="539.66" Importe="86.34" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="1.00" ClaveProdServ="01010101" ClaveUnidad="ACT" Descripcion="Venta" Importe="256.90" NoIdentificacion="134100" ValorUnitario="256.90">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="256.90" Importe="41.10" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="1.00" ClaveProdServ="01010101" ClaveUnidad="ACT" Descripcion="Venta" Importe="438.79" NoIdentificacion="134101" ValorUnitario="438.79">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="438.79" Importe="70.21" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="1.00" ClaveProdServ="01010101" ClaveUnidad="ACT" Descripcion="Venta" Importe="200.86" NoIdentificacion="134103" ValorUnitario="200.86">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="200.86" Importe="32.14" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="1.00" ClaveProdServ="01010101" ClaveUnidad="ACT" Descripcion="Venta" Importe="644.83" NoIdentificacion="134104" ValorUnitario="644.83">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="644.83" Importe="103.17" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="1.00" ClaveProdServ="01010101" ClaveUnidad="ACT" Descripcion="Venta" Importe="766.38" NoIdentificacion="134105" ValorUnitario="766.38">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="766.38" Importe="122.62" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="1.00" ClaveProdServ="01010101" ClaveUnidad="ACT" Descripcion="Venta" Importe="384.48" NoIdentificacion="134106" ValorUnitario="384.48">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="384.48" Importe="61.52" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="1.00" ClaveProdServ="01010101" ClaveUnidad="ACT" Descripcion="Venta" Importe="562.07" NoIdentificacion="134107" ValorUnitario="562.07">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="562.07" Importe="89.93" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="1.00" ClaveProdServ="01010101" ClaveUnidad="ACT" Descripcion="Venta" Importe="471.55" NoIdentificacion="134108" ValorUnitario="471.55">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="471.55" Importe="75.45" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="1.00" ClaveProdServ="01010101" ClaveUnidad="ACT" Descripcion="Venta" Importe="188.79" NoIdentificacion="134111" ValorUnitario="188.79">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="188.79" Importe="30.21" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="1.00" ClaveProdServ="01010101" ClaveUnidad="ACT" Descripcion="Venta" Importe="372.41" NoIdentificacion="134112" ValorUnitario="372.41">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="372.41" Importe="59.59" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="1.00" ClaveProdServ="01010101" ClaveUnidad="ACT" Descripcion="Venta" Importe="142.24" NoIdentificacion="134113" ValorUnitario="142.24">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="142.24" Importe="22.76" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="1.00" ClaveProdServ="01010101" ClaveUnidad="ACT" Descripcion="Venta" Importe="483.62" NoIdentificacion="134114" ValorUnitario="483.62">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="483.62" Importe="77.38" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="1.00" ClaveProdServ="01010101" ClaveUnidad="ACT" Descripcion="Venta" Importe="258.62" NoIdentificacion="134115" ValorUnitario="258.62">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="258.62" Importe="41.38" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="1.00" ClaveProdServ="01010101" ClaveUnidad="ACT" Descripcion="Venta" Importe="455.17" NoIdentificacion="134119" ValorUnitario="455.17">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="455.17" Importe="72.83" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="1.00" ClaveProdServ="01010101" ClaveUnidad="ACT" Descripcion="Venta" Importe="253.71" NoIdentificacion="134120" ValorUnitario="253.71">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="253.71" Importe="40.59" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="1.00" ClaveProdServ="01010101" ClaveUnidad="ACT" Descripcion="Venta" Importe="165.52" NoIdentificacion="134121" ValorUnitario="165.52">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="165.52" Importe="26.48" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="1.00" ClaveProdServ="01010101" ClaveUnidad="ACT" Descripcion="Venta" Importe="418.10" NoIdentificacion="134122" ValorUnitario="418.10">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="418.10" Importe="66.90" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="1.00" ClaveProdServ="01010101" ClaveUnidad="ACT" Descripcion="Venta" Importe="589.66" NoIdentificacion="134123" ValorUnitario="589.66">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="589.66" Importe="94.34" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="1.00" ClaveProdServ="01010101" ClaveUnidad="ACT" Descripcion="Venta" Importe="418.97" NoIdentificacion="134124" ValorUnitario="418.97">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="418.97" Importe="67.03" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+    </cfdi:Conceptos>
+    <cfdi:Impuestos TotalImpuestosTrasladados="6186.71">
+        <cfdi:Traslados>
+            <cfdi:Traslado Importe="6186.71" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+    </cfdi:Impuestos>
+<cfdi:Complemento><tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" Version="1.1" UUID="0D119C75-F1B5-48E5-91A5-0A9D86594DC5" SelloCFD="mTyiTbzHjn3PdGjc/vSZ5bX/5lHK8+V5dacL9t4zo3CZMKgUPgEJ4vWshRYkMGYYi7ygYRTo6uIyZpP/I1eFREEx19+8bNCEnOfV7wapn3L9L0Wkd0Fa4jXNQJk6VqIqb0EtpDt7/zxUv9yRPosWQ2sgBFvUAPuN/R7LnKNx9dLudX6O01utGs08+UDe6WNkicaz1X+xMPcMnSWrBuRwMcuqtMIrX+Bm5fNoVrx1g7TiwCjTMBl8Gja3+kXRJ3DmS0q7EmhINoiFfNPMm5B1WYzk0C8aUJfG5TxMuZgWnZzFa2M32EFbp9zqVr7QlnMBuHt+se5j5mW2chfooM2nwg==" NoCertificadoSAT="00001000000407611499" FechaTimbrado="2019-02-03T23:05:54" SelloSAT="x9p1HFdaH4iUGBtwU3AF4Nj6be79fKipxoO4BhJU0hiebmz1L25Jibm2JiFIIB2mPzd6ftInzo2qpcEwayFBgm0IHhctMo1dTCtOY4xywqx13/iA4ktzvgaXN2sxJ6UPTpNIaGtiZQQ9xnrqUqrSsJ3pRaT2ng0nqzePyLOnS32e30yX7au3d3vE7Op/cmYYCf2IskgNCz2dK8P4PQ5umst8DU9sINt2JHrVfdwkN4wps4NPIat9R1tEu47onl99leurBiMXjO0j1w9K1sI8XFTH8JJbra7/AprKpyQAd6YM8OuntKrzHhlMNd2y8fTkLAgsxPm8oIFcEfYpTLOndg==" RfcProvCertif="SIF0403229F9" /></cfdi:Complemento></cfdi:Comprobante>

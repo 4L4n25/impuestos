@@ -7,13 +7,16 @@ import java.util.stream.Stream;
 import org.springframework.core.io.Resource;
 import org.springframework.web.multipart.MultipartFile;
 
-public interface XmlFileService {
+import com.impuestos.commons.GenericService;
+import com.impuestos.models.FileXml;
 
-public void save(MultipartFile file) throws Exception;
+public interface XmlFileService extends GenericService<FileXml, Long> {
+
+	public void saveFile(MultipartFile file) throws Exception;
 	
 	public Resource load(String name) throws Exception;
 	
-	public void save(List<MultipartFile> files) throws Exception;
+	public void saveFile(List<MultipartFile> files) throws Exception;
 	
 	public Stream<Path> loadAll() throws Exception;
 	
