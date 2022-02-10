@@ -9,6 +9,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.core.io.Resource;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
+//import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.PostMapping;
@@ -18,7 +19,7 @@ import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.multipart.MultipartFile;
 import org.springframework.web.servlet.mvc.method.annotation.MvcUriComponentsBuilder;
 
-import com.impuestos.models.File;
+import com.impuestos.models.FileXml;
 import com.impuestos.models.Response;
 import com.impuestos.services.XmlFileService;
 
@@ -31,7 +32,7 @@ public class XmlController {
 	
 	@PostMapping("/upload")
 	public ResponseEntity<Response> uploadFiles(@RequestParam("files") List<MultipartFile> files) throws Exception{
-			xmlFileService.save(files);
+			xmlFileService.saveFile(files);
 			return ResponseEntity.status(HttpStatus.OK).body(new Response("Los archivos fueron cargados correctamente"));
 	}
 	
@@ -44,13 +45,13 @@ public class XmlController {
 	}
 	
 	@GetMapping("/files")
-	public ResponseEntity<List<File>> getAllFiles() throws Exception{
-		List<File> files = xmlFileService.loadAll().map(path->{
+	public ResponseEntity<List<FileXml>> getAllFiles() throws Exception{
+		List<FileXml> files = xmlFileService.loadAll().map(path->{
 			String filename = path.getFileName().toString();
 			String url = MvcUriComponentsBuilder.fromMethodName(XmlController.class, "getFile", path.getFileName().toString()).build().toString();
-			return new File(filename,url);
+			return new FileXml(filename,url);
 		}).collect(Collectors.toList());
-		
+		//fileXml.save(files);    
 		return ResponseEntity.status(HttpStatus.OK).body(files);
 	}
 }
